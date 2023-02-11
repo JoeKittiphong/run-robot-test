@@ -4,8 +4,8 @@ const CryptoJS = require("crypto-js");
 
 const config = {
     url : "https://api.bitkub.com",
-    key : "739c1cc50fbd079f2058f6f0a8fd4f6d",
-    secret : "815121d54ffe314faae0102d50a79519",
+    key : "",
+    secret : "",
     refresh_time : 10 //minute
 }
 
