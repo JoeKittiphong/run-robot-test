@@ -3,8 +3,8 @@ const axios = require("axios");
 
 const config = {
   url: "https://api.bitkub.com",
-  key: "739c1cc50fbd079f2058f6f0a8fd4f6d",
-  secret: "815121d54ffe314faae0102d50a79519",
+  key: "xxx",
+  secret: "xxx",
   refresh: 10,
 };
 
